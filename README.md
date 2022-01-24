@@ -6,7 +6,7 @@
 <td><b>Краткое описание</b></td>
 <tr>
 <td><b>1</b></td>
-<td><a href="https://nbviewer.org/github/MaksimPerepeliuk/data_analysis/blob/main/notebooks/credit_scoring.ipynb?flush=true" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
+<td><a href="https://nbviewer.org/github/MaksimPerepeliuk/data_analysis/blob/main/notebooks/credit_scoring.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
 <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
 <tr>
 <td> <b>2</b></td>
