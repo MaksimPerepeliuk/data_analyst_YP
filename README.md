@@ -96,5 +96,17 @@
 <td><ul><li>Исследовать какая из A/B групп лучше себя показала по результатам проведенного теста</li></ul></td>
 <td>pandas, numpy, matplotlib, scipy, seaborn, A/B тестирование, выбор статистического критерия, проверка гипотез</td>
 </tr>
+<tr>
+<td><b>9</b></td>
+<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ab_test_analysis_game_currency_spending/ab_test_gamedev.ipynb" target="_blank"><b>Анализ коэффициента удержания в приложении покупок магазина</b></a></td>
+<td>В июле 2015 года провели специальную акцию, направленную на улучшение ретеншена. Новым юзерам слали письмо с купоном на скидку</td>
+<td>
+	<ul>
+		<li>Выяснить, сработала ли акция?</li>
+		<li>Как повел себя коэффициент удержания после проведения акции?</li>
+	</ul>
+</td>
+<td>pandas, numpy, matplotlib, когортный анализ, продуктовый анализ</td>
+</tr>
 </tbody>
 </table>
