@@ -98,7 +98,7 @@
 </tr>
 <tr>
 <td><b>9</b></td>
-<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ab_test_analysis_game_currency_spending/ab_test_gamedev.ipynb" target="_blank"><b>Анализ коэффициента удержания в приложении покупок магазина</b></a></td>
+<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/retention_rate_store_app/retention_rate_store_app.ipynb" target="_blank"><b>Анализ коэффициента удержания в приложении покупок магазина</b></a></td>
 <td>В июле 2015 года провели специальную акцию, направленную на улучшение ретеншена. Новым юзерам слали письмо с купоном на скидку</td>
 <td>
 	<ul>
