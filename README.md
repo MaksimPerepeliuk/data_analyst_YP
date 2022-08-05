@@ -14,7 +14,7 @@
 	<tbody>
 		<tr>
 			<td><b>1</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/credit_scoring/credit_scoring.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/credit_scoring/credit_scoring.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
 			<td>Заказчик — кредитный отдел банка. Нужно разобраться, какие признаки (напр: семейное положение, количество детей) влияют на факт погашения кредита заемщиком в срок</td>
 			<td><ul><li>Выяснить как влияют следующие перменные на вероятность задолженности: количество детей, семейное положение, уровень дохода, цели кредита</li></ul></td>
 			<td>pandas, numpy, matplotlib, pymystem</td>
@@ -22,7 +22,7 @@
 		<tr>
 			<td><b>2</b></td>
 			<td>
-				<a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/apartments_sales/apartments_sales.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a>
+				<a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/apartments_sales/apartments_sales.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a>
 			</td>
 			<td>данные архива объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости.</td>
 			<td>
@@ -35,7 +35,7 @@
 		</tr>
 		<tr>
 			<td><b>3</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/telecom_tariffs/telecom_tariffs.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/telecom_tariffs/telecom_tariffs.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
 			<td>Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег</td>
 			<td>
 				<ul>
@@ -47,14 +47,14 @@
 		</tr>
 		<tr>
 			<td><b>4</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/games_market/games_market.ipynb" target="_blank"><b>Исследование рынка компьютерных и консольных игр</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/games_market/games_market.ipynb" target="_blank"><b>Исследование рынка компьютерных и консольных игр</b></a></td>
 			<td>Из открытых источников доступны исторические данные о продажах игр, оценках пользователей и экспертов, жанрах и платформах</td>
 			<td><ul><li>Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</li></ul></td>
 			<td>pandas, numpy, matplotlib, phik, выбор статистического критерия, проверка гипотез</td>
 		</tr>
 		<tr>
 			<td><b>5</b></td>
-				<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/app_marketing_analysis/app_marketing_analysis.ipynb" target="_blank"><b>Маркетинговый анализ приложения</b></a></td>
+				<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/app_marketing_analysis/app_marketing_analysis.ipynb" target="_blank"><b>Маркетинговый анализ приложения</b></a></td>
 				<td>Приложение Procrastinate Pro+ несколько прошлых месяцев приносило убытки, нужно разобраться в причинах</td>
 				<td>
 					<ul>
