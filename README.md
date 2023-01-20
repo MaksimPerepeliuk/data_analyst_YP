@@ -64,5 +64,17 @@
 				</td>
 			<td>pandas, numpy, matplotlib, scipy, seaborn, когортный анализ, продуктовый анализ</td>
 		</tr>
+		<tr>
+			<td><b>6</b></td>
+				<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/app_marketing_analysis/app_marketing_analysis.ipynb" target="_blank"><b>Кластеризация пользователей мобильного приложения</b></a></td>
+				<td>В мобильном приложении "Ненужные вещи" пользователи продают свои ненужные вещи, размещая их на доске объявлений при этом пользователи желающие купить какие-либо вещи, совершают различные события, логи которых и представлены в качестве данных</td>
+				<td>
+					<ul>
+						<li>Какие пользователи склонны часто возвращаться в мобильное приложение?</li>
+						<li>Какие пользователи часто совершают целевое событие contacts_show?</li>
+					</ul>
+				</td>
+			<td>pandas, numpy, matplotlib, seaborn, sklearn, когортный анализ</td>
+		</tr>
 	</tbody>
 </table>
