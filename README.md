@@ -66,7 +66,7 @@
 		</tr>
 		<tr>
 			<td><b>6</b></td>
-				<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/app_marketing_analysis/app_marketing_analysis.ipynb" target="_blank"><b>Кластеризация пользователей мобильного приложения</b></a></td>
+				<td><a href="https://github.com/MaksimPerepeliuk/data_analyst_YP/blob/main/kmeans_clustering_mobile_app_users/kmeans_clustering_mobile_app_users.ipynb" target="_blank"><b>Кластеризация пользователей мобильного приложения</b></a></td>
 				<td>В мобильном приложении "Ненужные вещи" пользователи продают свои ненужные вещи, размещая их на доске объявлений при этом пользователи желающие купить какие-либо вещи, совершают различные события, логи которых и представлены в качестве данных</td>
 				<td>
 					<ul>
